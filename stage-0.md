@@ -1,19 +1,19 @@
-# Learn Javascript
+# Let's hit the JS playground
 
-## Let's hit the JS playground
+Learn Javascript
 
-### Don't be a noob
+## Don't be a noob
 
 Java is not Javascript.
 Okay, now you're ready to begin... 😛
 
-### Try JS out
+## Try JS out
 
 The easiest way to dip your toes in the pool of JS is in a coding fiddle. Let's use [Codepen](codepen.io)
 
 Set up a [new pen in Codepen](codepen.io/pen)
 
-#### Steps shown below in GIF
+### Steps shown below in GIF
 
 * slide the JS section up
 * open the console (bottom left)
@@ -38,11 +38,11 @@ console.log(statement);
 
 Your pen should be look something like this:
 
-![set up Codepen with first JS added](img/stage-0-ready-codepen-js-added.gif)
+![set up Codepen with first JS added](img/stage-0-ready-codepen-js-added.jpg)
 
-### What do we have so far?
+## What do we have so far?
 
-#### Line 1, we have a comment
+### Line 1, we have a comment
 
 ```javascript
 // store info about our user
@@ -50,7 +50,7 @@ Your pen should be look something like this:
 
 Comments help give our code context and insight into what is going on. These are messages for all who read the code. Most, if not all coding languages have a way to create comments. It really is helpful as your projects grow.
 
-#### Line 2, we have a variable set
+### Line 2, we have a variable set
 
 ```javascript
 let name = "Molly",
@@ -64,7 +64,7 @@ To make a String, use single or double quotes: `'text here' or "another text her
 
 We'll talk about other Data Types later. Let's get on with it. 😄
 
-#### Line 3, sets another variable
+### Line 3, sets another variable
 
 You can name variables pretty much anything. This next variable is declared with out a `let` statement on the same line. This is possible because of the previous comma. The commas says, "`name` is Molly [and] `age` is forever young".
 
@@ -82,7 +82,7 @@ let age = "forever young";
 
 Both ways work. 👍
 
-#### Line 6, sets another variable
+### Line 6, sets another variable
 
 ```javascript
 // build message
@@ -100,7 +100,7 @@ let statement = name + " is " + age;
 
 Both ways combine the strings together. This is called concatenation.
 
-#### Line 9, sends a message to the console window
+### Line 9, sends a message to the console window
 
 ```javascript
 // put message into console
@@ -111,4 +111,4 @@ In short, the `console.log()` method allows us to return anything we want to see
 
 Now, you go get in the driver's seat. 🚗
 
-### Challenges
+## Challenges
