@@ -13,7 +13,7 @@ The easiest way to dip your toes in the pool of JS is in a coding fiddle. Let's 
 
 Set up a [new pen in Codepen](codepen.io/pen)
 
-![set up Codepen for javascript](stage-0-ready-codepen.gif)
+![set up Codepen for javascript](img/stage-0-ready-codepen.gif)
 
 #### Steps shown above:
 
@@ -38,4 +38,4 @@ console.log(statement);
 
 You should be looking something like this:
 
-![set up Codepen with first JS added](stage-0-ready-codepen-js-added.gif)
+![set up Codepen with first JS added](img/stage-0-ready-codepen-js-added.gif)
