@@ -112,3 +112,11 @@ In short, the `console.log()` method allows us to return anything we want to see
 Now, you go get in the driver's seat. 🚗
 
 ## Challenges
+
+### Challenge #1
+
+Using the example above, create a new statement that includes a sentence like this:
+"NAME is AGE, and likes FRUIT and HOBBY"
+
+Open a new pen, name it `jss0c1` and click Save.
+In `challenges/s0c1.js`, paste the link to your new pen.
